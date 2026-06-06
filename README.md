@@ -1,4 +1,4 @@
-# 🌌👨‍💻 Jafet Dubón
+# 🌌 Jafet Dubón
 
 ### 🚀 Estudiante de Ingeniería en Ciencias de la Computación
 
