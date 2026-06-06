@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👨‍💻 Jafet Dubón
 
-<!--
-**StannDubon/StannDubon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Ciencias de la Computación
 
-Here are some ideas to get you started:
+Apasionado por la tecnología, el desarrollo de software y la creación de soluciones prácticas que optimicen procesos y faciliten la vida de las personas. Actualmente me encuentro fortaleciendo mis habilidades técnicas y profesionales mediante proyectos, aprendizaje continuo y experiencia en soporte técnico e infraestructura informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre Mí
+
+💡 Profesional en formación con experiencia en:
+
+- Soporte técnico
+- Configuración e instalación de equipos
+- Resolución de incidencias
+- Desarrollo de software
+- Redes y administración básica de sistemas
+
+Me considero una persona adaptable, orientada a resultados y de rápido aprendizaje, con gran interés en la innovación tecnológica y el trabajo en equipo.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes
+- PHP
+- JavaScript
+- Python
+- Java
+- C#
+- HTML
+- CSS
+
+### ⚙️ Frameworks y Tecnologías
+- Laravel
+- Node.js
+- MySQL
+- SQL Server Express
+
+### ☁️ Herramientas & Plataformas
+- AWS
+- GitHub
+- Linux
+- Figma
+
+### 🌐 Redes
+- TCP/IP
+- Subneteo
+
+---
+
+## 🧠 Habilidades
+
+- Resolución de problemas
+- Trabajo en equipo
+- Comunicación efectiva
+- Adaptabilidad
+- Aprendizaje continuo
+- Gestión del tiempo y priorización
+
+---
+
+## 🌎 Idiomas
+
+- Español — Nativo
+- Inglés — Avanzado
+
+---
+
+## 📊 GitHub Stats
+
+![Jafet's GitHub stats](https://github-readme-stats.vercel.app/api?username=StannDubon&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StannDubon&layout=compact&theme=tokyonight)
