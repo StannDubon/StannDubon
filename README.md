@@ -36,41 +36,41 @@
 
 ## 🪐⚙️ Frameworks y Tecnologías
 
-🛸 Laravel
-🚀 Node.js
-🌌 MySQL
-🛰️ SQL Server Express
+-🛸 Laravel
+-🚀 Node.js
+-🌌 MySQL
+-🛰️ SQL Server Express
 
 ---
 
 ## ☄️☁️ Herramientas & Plataformas
 
-🌍 AWS
-🧑‍🚀 GitHub
-🐧 Linux
-🎨 Figma
+-🌍 AWS
+-🧑‍🚀 GitHub
+-🐧 Linux
+-🎨 Figma
 
 ---
 
 ## 🌐🛰️ Redes
 
-📡 TCP/IP
-🪐 Subneteo
+-📡 TCP/IP
+-🪐 Subneteo
 
 ---
 
 # 🌟🧠 Habilidades
 
-✨ Resolución de problemas
-🚀 Trabajo en equipo
-🛰️ Comunicación efectiva
-🌌 Adaptabilidad
-📚 Aprendizaje continuo
-⏳ Gestión del tiempo y priorización
+-✨ Resolución de problemas
+-🚀 Trabajo en equipo
+-🛰️ Comunicación efectiva
+-🌌 Adaptabilidad
+-📚 Aprendizaje continuo
+-⏳ Gestión del tiempo y priorización
 
 ---
 
 # 🌍🗣️ Idiomas
 
-🇸🇻 Español — Nativo
-🇺🇸 Inglés — Avanzado
+-🇸🇻 Español — Nativo
+-🇺🇸 Inglés — Avanzado
