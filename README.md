@@ -10,11 +10,11 @@
 
 💫 Profesional en formación con experiencia en:
 
-🛰️ Soporte técnico
-🛸 Configuración e instalación de equipos
-🌠 Resolución de incidencias
-💻 Desarrollo de software
-🌌 Redes y administración básica de sistemas
+- 🛰️ Soporte técnico
+- 🛸 Configuración e instalación de equipos
+- 🌠 Resolución de incidencias
+- 💻 Desarrollo de software
+- 🌌 Redes y administración básica de sistemas
 
 ☄️ Me considero una persona adaptable, orientada a resultados y de rápido aprendizaje, con gran interés en la innovación tecnológica, el trabajo en equipo y la mejora continua.
 
