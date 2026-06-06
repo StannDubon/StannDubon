@@ -64,11 +64,3 @@ Me considero una persona adaptable, orientada a resultados y de rápido aprendiz
 
 - Español — Nativo
 - Inglés — Avanzado
-
----
-
-## 📊 GitHub Stats
-
-![Jafet's GitHub stats](https://github-readme-stats.vercel.app/api?username=StannDubon&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StannDubon&layout=compact&theme=tokyonight)
